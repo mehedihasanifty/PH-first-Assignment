@@ -319,33 +319,28 @@ nav {
 .plan-button {
   width: 100%;
   padding: 13px 0;
-  border-radius: 8px;
+  border-radius: 12px;
   font-size: 15px;
   font-weight: 700;
   cursor: pointer;
-  transition: opacity 0.15s ease;
+
 }
 
-.plan-button:hover {
-  opacity: 0.85;
-}
-
-.plan-button.outline {
-  background: none;
-  border-radius: 6px;
-  border-color: #6596ff;
-  color: rgb(5, 141, 194);
+.outline{
+  border: 2px solid #2f5fed;
+  color: #2f5fed;
 }
 
 .plan-button.solid {
   background: #2f5fed;
-  border-radius: 2.5px;
+  border-radius: 8px;
   color: #ffffff;
+  border: none;
 }
 
-.plan-button.dark-outline {
+.plan-button .dark-outline {
   background: #ffffff;
-  border: 1.5px solid #d1d5db;
+  border: 2px solid #000000;
 }
 
 /* Secure Your Spot section end */
