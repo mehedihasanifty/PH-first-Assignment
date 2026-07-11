@@ -39,7 +39,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 22px 0;
+  padding: 14px 0;
 }
 
 .logo-area {
@@ -114,11 +114,8 @@ nav {
 .hero-content p {
   width: 746px;
   margin-top: 24px;
-  margin-bottom: 340px;
+  margin-bottom: 360px;
 }
-
-/* Button */
-
 
 
 /* Meet the Speakers */
